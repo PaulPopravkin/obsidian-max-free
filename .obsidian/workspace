@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "031a40a38f6f0537",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8f7ccfe8a2f8a3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Должности/Фотограф.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c8b66d0916d9ca2e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Задачи/Поговорить с Инной по поводу ведения инстаграм.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7dc23ee8f040eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "013788e3a72c6908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338ccf13c804f5bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c49f6fc25e5d0b79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "828dd7f2b2a82819",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266
+  },
+  "right": {
+    "id": "7793e85abd9f1c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c2d014c5fea572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461813a89ae737ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Должности/Фотограф.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2057607fb3a3b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Должности/Фотограф.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4be52806fea90b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4628932f1cc7c3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Должности/Фотограф.md",
+    "Должности/Наставники.md",
+    "Должности/Музыканты.md",
+    "Должности/Координаторы.md",
+    "Команда/Маша Михайляк.md",
+    "Команда/Назар Проданюк.md",
+    "Долгосрочные задачи.md",
+    "Ближайшие задачи.md",
+    "Задачи/Поговорить с Инной по поводу ведения инстаграм.md",
+    "Untitled.md"
+  ]
+}
