@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8f7ccfe8a2f8a3",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Должности/Фотограф.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "c8b66d0916d9ca2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Задачи/Поговорить с Инной по поводу ведения инстаграм.md",
-            "mode": "preview"
+            "file": "test.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "01ae3d76e32a2376",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Прописать сценарий рекламного ролика и отправить мише.md",
+            "mode": "source"
           }
         }
       }
@@ -88,10 +87,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Должности/Фотограф.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Должности/Фотограф.md"
+                "file": "test.md"
               }
             }
           }
@@ -117,6 +118,20 @@
             "id": "eb4628932f1cc7c3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca871e42f13bf8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faff42789b0b87de",
+            "type": "leaf",
+            "state": {
               "type": "todo",
               "state": {}
             }
@@ -128,16 +143,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "c8b66d0916d9ca2e",
   "lastOpenFiles": [
-    "Должности/Фотограф.md",
+    "Untitled.md",
     "Должности/Наставники.md",
+    "Прописать сценарий рекламного ролика и отправить мише.md",
+    "Должности/Спорт инструктора.md",
+    "Должности/Ведущие.md",
+    "Должности/Декораторы.md",
+    "Должности/Дизайнер.md",
     "Должности/Музыканты.md",
-    "Должности/Координаторы.md",
-    "Команда/Маша Михайляк.md",
-    "Команда/Назар Проданюк.md",
-    "Долгосрочные задачи.md",
-    "Ближайшие задачи.md",
-    "Задачи/Поговорить с Инной по поводу ведения инстаграм.md",
-    "Untitled.md"
+    "Должности/Звуко оператор.md",
+    "Должности/Пастор.md"
   ]
 }
