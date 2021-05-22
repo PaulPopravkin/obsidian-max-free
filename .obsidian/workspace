@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b66d0916d9ca2e",
+        "id": "ad89568ef19cd70d",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Команда/Петр Мирный.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "70d50ab87aae63ea",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Расказать программу лагеря сотрудникам.md",
-            "mode": "source"
           }
         }
       }
@@ -145,11 +132,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8b66d0916d9ca2e",
+  "active": "ad89568ef19cd70d",
   "lastOpenFiles": [
     "Команда/Петр Мирный.md",
-    "Ближайшие задачи.md",
     "Расказать программу лагеря сотрудникам.md",
+    "Ближайшие задачи.md",
     "Библейские-уроки/Урок-1.md",
     "Программа-лагеря/День-1.md",
     "Прописать сценарий рекламного ролика и отправить мише.md",
