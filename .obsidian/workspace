@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Должности/Музыканты.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d0e85cca19a944f9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Программа лагеря.md",
+            "file": "Должности/Спорт инструктора.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Должности/Музыканты.md",
+                "file": "Должности/Спорт инструктора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Должности/Музыканты.md"
+                "file": "Должности/Спорт инструктора.md"
               }
             }
           }
@@ -145,8 +134,8 @@
   },
   "active": "f605bf6091254082",
   "lastOpenFiles": [
-    "Должности/Музыканты.md",
     "Должности/Спорт инструктора.md",
+    "Должности/Музыканты.md",
     "Должности/Медик.md",
     "Настя Стожук.md",
     "Макс.md",
