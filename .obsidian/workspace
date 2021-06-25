@@ -6,11 +6,11 @@
       {
         "id": "f605bf6091254082",
         "type": "leaf",
-        "dimension": 55.485611510791365,
+        "dimension": 44.60431654676259,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Должности/Звуко оператор.md",
+            "file": "Должности/Ведущие.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "bbf5bbacf88e327a",
         "type": "leaf",
-        "dimension": 44.514388489208635,
+        "dimension": 55.39568345323741,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Должности/Звуко оператор.md",
+                "file": "Должности/Ведущие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,56 +106,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Должности/Звуко оператор.md"
+                "file": "Должности/Ведущие.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4be52806fea90b92",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "eb4628932f1cc7c3",
+            "id": "49113fb62d68fb01",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "ca871e42f13bf8d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "faff42789b0b87de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 100
   },
   "active": "f605bf6091254082",
   "lastOpenFiles": [
+    "Должности/Ведущие.md",
     "Должности/Звуко оператор.md",
+    "Программа-лагеря/День 2.md",
     "Должности/Пастор.md",
     "Должности/Фотограф.md",
     "Должности/Медик.md",
     "Должности/Видео оператор.md",
     "Должности/Спорт инструктора.md",
     "Должности/Директор.md",
-    "Должности/Руководитель ОМС ЮК.md",
-    "Должности/Ведущие.md",
-    "Должности/Декораторы.md"
+    "Должности/Руководитель ОМС ЮК.md"
   ]
 }
