@@ -6,23 +6,21 @@
       {
         "id": "f605bf6091254082",
         "type": "leaf",
-        "dimension": 44.60431654676259,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Должности/Ведущие.md",
+            "file": "Должности/Декораторы.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "bbf5bbacf88e327a",
+        "id": "ffcde6c2c427d6b5",
         "type": "leaf",
-        "dimension": 55.39568345323741,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программа-лагеря/День 2.md",
+            "file": "Программа-лагеря/День 1.md",
             "mode": "preview"
           }
         }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Должности/Ведущие.md",
+                "file": "Должности/Декораторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,43 +97,39 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5f0471ffbca007db",
+        "type": "tabs",
+        "children": [
           {
-            "id": "f2057607fb3a3b4c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Должности/Ведущие.md"
-              }
-            }
-          },
-          {
-            "id": "49113fb62d68fb01",
+            "id": "da8c287bc162fd6a",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 276,
+    "collapsed": true
   },
   "active": "f605bf6091254082",
   "lastOpenFiles": [
+    "Должности/Декораторы.md",
     "Должности/Ведущие.md",
+    "Программа-лагеря/День 1.md",
     "Должности/Звуко оператор.md",
     "Программа-лагеря/День 2.md",
     "Должности/Пастор.md",
     "Должности/Фотограф.md",
     "Должности/Медик.md",
     "Должности/Видео оператор.md",
-    "Должности/Спорт инструктора.md",
-    "Должности/Директор.md",
-    "Должности/Руководитель ОМС ЮК.md"
+    "Должности/Спорт инструктора.md"
   ]
 }
