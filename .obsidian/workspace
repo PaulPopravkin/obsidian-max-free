@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программа-лагеря/День 1.md",
+            "file": "Temp.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программа-лагеря/День 1.md",
+                "file": "Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программа-лагеря/День 1.md"
+                "file": "Temp.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "f605bf6091254082",
   "lastOpenFiles": [
+    "Untitled.md",
     "Программа-лагеря/День 1.md",
     "Закупка.md",
     "Программа-лагеря/Зазед.md",
@@ -139,7 +140,6 @@
     "Полина Бонадрь.md",
     "Света Сауленко.md",
     "Должности/Декораторы.md",
-    "Должности/Звуко оператор.md",
-    "Должности/Ведущие.md"
+    "Должности/Звуко оператор.md"
   ]
 }
