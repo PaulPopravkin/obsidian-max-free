@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программа-лагеря/День 1.md",
+            "file": "Должности/Пастор.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программа-лагеря/День 1.md",
+                "file": "Должности/Пастор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программа-лагеря/День 1.md"
+                "file": "Должности/Пастор.md"
               }
             }
           }
@@ -120,8 +120,8 @@
   },
   "active": "43100b474e178b70",
   "lastOpenFiles": [
-    "Программа-лагеря/День 1.md",
     "Должности/Пастор.md",
+    "Программа-лагеря/День 1.md",
     "Должности/Ведущие.md",
     "Закупка.md",
     "Программа-лагеря/День 2.md",
