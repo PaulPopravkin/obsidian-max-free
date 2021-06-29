@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Должности/Медик.md",
+            "file": "Должности/Музыканты.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Должности/Медик.md",
+                "file": "Должности/Музыканты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Должности/Медик.md"
+                "file": "Должности/Музыканты.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "43100b474e178b70",
   "lastOpenFiles": [
+    "Должности/Музыканты.md",
     "Должности/Медик.md",
     "Должности/Наставники.md",
     "Закупка.md",
@@ -127,7 +128,6 @@
     "Программа лагеря/День 2.md",
     "Атмосфера.jpg",
     "Untitled.md",
-    "Ближайшие задачи.md",
-    "Долгосрочные задачи.md"
+    "Ближайшие задачи.md"
   ]
 }
