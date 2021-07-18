@@ -1,1 +1,14 @@
-{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":30,"autoPullInterval":0,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true,"lastAutoBackUp":"Fri Jul 16 2021 13:19:31 GMT+0300 (Eastern European Summer Time)","lastAutoPull":""}
+{
+  "commitMessage": "vault backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 30,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "lastAutoBackUp": "Sun Jul 18 2021 17:23:49 GMT+0300 (Eastern European Summer Time)",
+  "lastAutoPull": ""
+}
