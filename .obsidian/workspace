@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3151950cb0d060",
-        "type": "leaf",
-        "dimension": 32.014388489208635,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Мастерклассы/Мастерклассы.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "dcae8e9cd03d257f",
         "type": "leaf",
-        "dimension": 67.98561151079137,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Программа лагеря/День 2.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "a59898ef438e0d49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Программа лагеря/Общелагерные игры.md",
+            "mode": "source"
           }
         }
       }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программа лагеря/День 2.md",
+                "file": "Программа лагеря/Общелагерные игры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программа лагеря/День 2.md"
+                "file": "Программа лагеря/Общелагерные игры.md"
               }
             }
           }
@@ -131,14 +129,14 @@
     "width": 276,
     "collapsed": true
   },
-  "active": "dcae8e9cd03d257f",
+  "active": "a59898ef438e0d49",
   "lastOpenFiles": [
+    "Программа лагеря/Общелагерные игры.md",
     "Программа лагеря/День 2.md",
     "Мастерклассы/Мастерклассы.md",
     "Роли в Браке.md",
     "Программа лагеря/Дежурный отряд.md",
     "Прояви себя.md",
-    "Программа лагеря/Общелагерные игры.md",
     "Программа лагеря/День 3.md",
     "Подарки.md",
     "Программа лагеря/Инстляции.md",
