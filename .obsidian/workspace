@@ -6,23 +6,10 @@
       {
         "id": "bf3151950cb0d060",
         "type": "leaf",
-        "dimension": 64.65827338129496,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Программа лагеря/День 2.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6d495c5cf04d0534",
-        "type": "leaf",
-        "dimension": 35.34172661870504,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Подарки.md",
             "mode": "source"
           }
         }
