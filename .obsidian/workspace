@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "dcae8e9cd03d257f",
-        "type": "leaf",
-        "dimension": 20.503597122302157,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Программа лагеря/День 2.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "f19e90fbfbcd6465",
         "type": "leaf",
-        "dimension": 48.47122302158273,
+        "dimension": 60.625,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +18,7 @@
       {
         "id": "a59898ef438e0d49",
         "type": "leaf",
-        "dimension": 31.02517985611511,
+        "dimension": 39.375,
         "state": {
           "type": "markdown",
           "state": {
